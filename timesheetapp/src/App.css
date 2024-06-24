@@ -1,0 +1,19 @@
+/* timeSheet */
+
+/* @media only screen and (min-width: 620px) {
+  .custom-width {
+    width: 100% !important;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .custom-width {
+    width: 75% !important;
+  }
+} */
+
+@media only screen and (max-width: 1440px) {
+  .custom-bg-width {
+    width:91.333% !important;
+  }
+}
+
